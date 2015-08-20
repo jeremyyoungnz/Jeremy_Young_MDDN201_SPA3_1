@@ -1,0 +1,92 @@
+.mainWrapper{
+	min-height: 800px;
+	width: 85%;
+}
+.header{
+	min-height:50px;
+	font-size: 20px;
+}
+.siteBody{
+	min-height: 650px;
+	background-color: #f4f4f4;
+}
+.siteBody > .col-md-4{
+}
+.bodyContainers{
+	padding:20px;
+	min-height:400px;
+}
+.innerContainers{
+	min-height:800px;
+}
+.headers{
+	height:100px;
+}
+.myNav{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.photos{
+	margin-bottom: 10px;
+	height: 600px;
+}
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+  color: #333;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #555;
+}
+.news-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 60px;
+  font-weight: normal;
+  text-decoration: underline;
+  padding-bottom: 40px;
+}
+.news-post {
+  margin-bottom: 60px;
+}
+.news-post-title {
+  margin-bottom: 5px;
+  font-size: 40px;
+  text-decoration: underline;
+}
+.news-post-meta {
+  margin-bottom: 20px;
+  color: #999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
